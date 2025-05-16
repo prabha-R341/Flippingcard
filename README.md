@@ -12,3 +12,4 @@ This project showcases a **responsive flipping card** feature, designed to enhan
 Technologies Used 🛠️
 - HTML5– Structure of the website
 - CSS – Styling and animations
+project url -https://prabha-r341.github.io/Flippingcard/
